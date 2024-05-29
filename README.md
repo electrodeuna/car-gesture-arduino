@@ -2,6 +2,10 @@
 
 Proyecto para construir un mini robot controlado por gestos utilizando un Arduino Nano. 
 
+![image](https://github.com/electrodeuna/car-gesture-arduino/assets/85527788/1990d4ca-9ed6-4b94-9ec1-e3658b36cfc0)
+
+## Video
+
 https://www.youtube.com/watch?v=inUxp2acXcg
 
 ## Lista de Materiales
