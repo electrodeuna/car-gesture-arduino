@@ -18,3 +18,11 @@ https://www.youtube.com/watch?v=inUxp2acXcg
 - Sensor de gestos ADPS-9960
 - Placa experimental
 - Cables
+
+- ## Librerias
+
+Para que el código funcione correctamente hay que instalar las siguientes librerias:
+
+- Arduino_APDS9960
+- Adafruit_GFX
+- Adafruit_SSD1306
