@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=inUxp2acXcg
 - Placa experimental
 - Cables
 
-- ## Librerias
+## Librerias
 
 Para que el código funcione correctamente hay que instalar las siguientes librerias:
 
