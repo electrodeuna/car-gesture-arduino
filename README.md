@@ -1,6 +1,6 @@
 # Mini Robot con Arduino
 
-Proyecto para construir un mini robot controlado por gestos utilizando un Arduino Nano. 
+Proyecto para construir un mini robot controlado por gestos utilizando un Arduino Nano. Cuando se pasa la mano hacia la izquierda por delante del sensor el robot se mueve hacia la izquierda, lo mismoa hacia la derecha, arriba y abajo.
 
 ![image](https://github.com/electrodeuna/car-gesture-arduino/assets/85527788/1990d4ca-9ed6-4b94-9ec1-e3658b36cfc0)
 
