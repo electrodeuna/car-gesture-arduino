@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=inUxp2acXcg
 - Placa experimental
 - Cables
 
-## Librerias
+## Librerías
 
-Para que el código funcione correctamente hay que instalar las siguientes librerias:
+Para que el código funcione correctamente hay que instalar las siguientes librerías:
 
 - Arduino_APDS9960
 - Adafruit_GFX
