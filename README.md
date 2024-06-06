@@ -19,6 +19,14 @@ https://www.youtube.com/watch?v=inUxp2acXcg
 - Placa experimental
 - Cables
 
+## Diagrama de Conexiones
+
+Arduino Nano	-> Pin en el Servo
+D3	-> Pin de señal Servo 1 (amarillo)
+D4	-> Pin de señal Servo 2(amarillo)
+5V	-> Pin de alimentación (rojo)
+GND	-> Pin de tierra (negro)
+
 ## Librerías
 
 Para que el código funcione correctamente hay que instalar las siguientes librerías:
