@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=inUxp2acXcg
 | Arduino Nano | Pin en el Servo                 |
 | ------------ | ------------------------------- |
 | D3	         | Pin de señal Servo 1 (amarillo) |
-| D4	         | Pin de señal Servo 2(amarillo)  |
+| D4	         | Pin de señal Servo 2 (amarillo)  |
 | 5V	         | Pin de alimentación (rojo)      |
 | GND	         |Pin de tierra (negro)            |
 
